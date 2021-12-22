@@ -3,7 +3,7 @@ program perulangan membaca buku menggunakan while
 """
 book_count = 10
 print('ibu berkata, "baca semua bukumu"')
-read_count = 0
+read_count =
 
 undertstood_count = 0
 print(f'jumlah buku yang sudah di baca dan di pahami{undertstood_count}')
