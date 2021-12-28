@@ -28,5 +28,3 @@ else:
      print("Budi buys everything Mom ordered")
      print("Buddy go home")
      print("Submit the result to mother")
-
-
